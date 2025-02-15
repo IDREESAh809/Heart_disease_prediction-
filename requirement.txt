@@ -1,0 +1,7 @@
+# List of dependencies for the project
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
