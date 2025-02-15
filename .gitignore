@@ -1,0 +1,9 @@
+# Ignore unnecessary files
+* .venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+.DS_Store
+models/
